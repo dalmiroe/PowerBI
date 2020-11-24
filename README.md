@@ -6,4 +6,5 @@ Contém trabalhos com PBI
 [Google](https://google.com" target="_blank)
 
 A base de dados deste dash é um postgree.
-![Dash](Apoio/dashpostgree.png).
+![Optional Text](../master/Apoio/dashpostgree.png)
+
