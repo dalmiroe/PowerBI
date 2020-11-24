@@ -6,9 +6,4 @@ Contém trabalhos com PBI
 [Google](https://google.com" target="_blank)
 
 A base de dados deste dash é um postgree.
-![](../master/Apoio/dashpostgree.png?w=512)
-
-<img src="https://github.com/dalmiroe/PowerBI/tree/master/Apoio/dashpostgree.png?w=512"
-
-
-
+![](Apoio/DashPostgree.png?w=512)
